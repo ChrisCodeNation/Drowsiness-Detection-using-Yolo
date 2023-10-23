@@ -20,5 +20,6 @@ RCNN開創了物件偵測的先鋒，接續又出現了Fast RCNN與Faster RCNN�
 - Testing
 
 # Result
+<img width="600" height="300" src="./result.JPG"/>
 
 詳細文章可至[Hackmd](https://hackmd.io/@chrish0729/HJumJZ4Mp)觀看
