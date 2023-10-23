@@ -1,0 +1,30 @@
+labelImg環境
+# 建立虛擬環境
+conda create --name to_label
+
+# 啟動虛擬環境
+conda activate to_label
+
+# 離開虛擬環境
+conda  deactivate
+
+# 刪除虛擬環境
+conda env remove --name <envname>
+
+# labelImg 安裝
+pip install labelImg
+labelImg
+
+
+# Jupyter 環境
+# 建立虛擬環境
+python -m venv drowsiness
+
+# 啟動虛擬環境
+source drowsiness/bin/activate
+
+# 離開虛擬環境
+deactivate
+
+# 刪除虛擬環境
+直接刪除資料夾
