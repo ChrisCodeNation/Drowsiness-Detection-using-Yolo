@@ -24,7 +24,9 @@ RCNN開創了物件偵測的先鋒，接續又出現了Fast RCNN與Faster RCNN�
 
 # 參考資料
 [YOLO v5](https://github.com/ultralytics/yolov5.git)
+
 [LabelImg](https://github.com/HumanSignal/labelImg.git)
+
 [Deep Drowsiness Detection using YOLO, Pytorch and Python](https://youtu.be/tFNJGim3FXw?si=OZH1QIqIxVB4e5vM)
 
 詳細文章可至[Hackmd](https://hackmd.io/@chrish0729/HJumJZ4Mp)觀看
